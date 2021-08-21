@@ -9,6 +9,8 @@ body {
 
 #cabecera{
     color: blue;
+    text-align: center;
+    background-color: burlywood;
 }
 
 #container
