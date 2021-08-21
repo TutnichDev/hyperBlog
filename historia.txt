@@ -1,0 +1,13 @@
+Esta es la historia de Matias
+
+Tiene 17 años y no ha encontrado el amor, ¿acaso morirá solo?
+
+Mañana hablaremos de su historia.
+
+<<<<<<< HEAD
+Hoy arregle la gilada del bash... me habia quedado el z bash en vez del que uso por default... lo superé.. estoy destinado al éxito.
+
+a veces le transpiran las manos.
+=======
+Git es la ostia.
+>>>>>>> alt-history
