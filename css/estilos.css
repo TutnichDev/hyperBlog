@@ -1,0 +1,29 @@
+body {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0
+}
+
+#cabecera{
+    color: blue;
+    text-align: center;
+    background-color: burlywood;
+}
+
+#container
+{
+    width: 70%;
+    background-color: chartreuse;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;   
+}
